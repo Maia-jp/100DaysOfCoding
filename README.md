@@ -3,7 +3,7 @@
 
 
 ### Problems
-- [Day 1: Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)
+- [Day 1: Sort by Length](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D1_URI_1244_Sort%20by%20Length.py)
 
 
 ### Solutions
