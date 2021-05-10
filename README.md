@@ -3,4 +3,10 @@
 
 
 ### Problems
-- [Day 1: Sort by Length](http://localhost/ "link title")
+- [Day 1: Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)
+
+
+### Solutions
+| Day | Problem | Lang  | Tags |
+| :------------ | :------------ | :------------ | :------------ |
+| 1    | [Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)     | python 3    | Data Structure     |
