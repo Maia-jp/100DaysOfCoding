@@ -14,4 +14,4 @@
 ### Problems
 - [Day 1: Sort by Length](https://www.urionlinejudge.com.br/judge/en/problems/view/1244)
 - [Day 2: Rails](https://www.urionlinejudge.com.br/judge/en/problems/view/1062)
-- [Day 2: Rails](https://www.urionlinejudge.com.br/judge/en/problems/view/1022)
+- [Day 3: TDA Rational](https://www.urionlinejudge.com.br/judge/en/problems/view/1022)
