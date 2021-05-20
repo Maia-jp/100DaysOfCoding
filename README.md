@@ -12,6 +12,7 @@
 | 4    | [Dark Roads](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D4_URI_1152_Dark%20Roads.cpp)     | C++    | Graph     |
 | 5    | [Building Designing](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D5_URI_1361_Building%20Designing.py)     | python 3    | Data Structure; Ad-Hoc     |
 | 6    | [Infix to Posfix](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D6_URI_1077_Infix%20to%20Posfix.py)     | python 3    | Data Structure     |
+| 7   | [Samuel The Coffee Grower](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D7_URI_%203152_Samuel_The_Coffee_Grower.py)     | python 3    | Math;Ad-Hoc     |
 
 
 ### Problems
@@ -21,3 +22,4 @@
 - [Day 4: Dark Roads](https://www.urionlinejudge.com.br/judge/en/problems/view/1152)
 - [Day 5: Building Designing](https://www.urionlinejudge.com.br/judge/en/problems/view/1361)
 - [Day 6: Infix to Posfix](https://www.urionlinejudge.com.br/judge/en/problems/view/1077)
+- [Day 7: Samuel The Coffee Grower](https://www.urionlinejudge.com.br/judge/en/problems/view/3152)
