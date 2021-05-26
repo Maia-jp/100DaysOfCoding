@@ -13,7 +13,7 @@
 | 5    | [Building Designing](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D5_URI_1361_Building%20Designing.py)     | python 3    | Data Structure; Ad-Hoc     |
 | 6    | [Infix to Posfix](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D6_URI_1077_Infix%20to%20Posfix.py)     | python 3    | Data Structure     |
 | 7   | [Samuel The Coffee Grower](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D7_URI_%203152_Samuel_The_Coffee_Grower.py)     | python 3    | Math;Ad-Hoc     |
-| 7   | [Desing Lights](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D8_URI_1076_DesingLights.cpp)     | C++   | Graph    |
+| 8   | [Desing Lights](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D8_URI_1076_DesingLights.cpp)     | C++   | Graph    |
 
 
 ### Problems
