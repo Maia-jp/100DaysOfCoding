@@ -14,6 +14,7 @@
 | 6    | [Infix to Posfix](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D6_URI_1077_Infix%20to%20Posfix.py)     | python 3    | Data Structure     |
 | 7   | [Samuel The Coffee Grower](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D7_URI_%203152_Samuel_The_Coffee_Grower.py)     | python 3    | Math;Ad-Hoc     |
 | 8   | [Desing Lights](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D8_URI_1076_DesingLights.cpp)     | C++   | Graph    |
+| 10   | [Fibonacci, How Many Calls?](https://github.com/Maia-jp/100DaysOfCoding/blob/main/solutions/D_10_URI_1029_FibonacciHowManyCalls.c)     | C   | paradigms   |
 
 
 ### Problems
@@ -25,3 +26,4 @@
 - [Day 6: Infix to Posfix](https://www.urionlinejudge.com.br/judge/en/problems/view/1077)
 - [Day 7: Samuel The Coffee Grower](https://www.urionlinejudge.com.br/judge/en/problems/view/3152)
 - [Day 8: Desing Lights](https://www.urionlinejudge.com.br/judge/en/problems/view/1076)
+- [Day 10: Desing Lights](https://www.urionlinejudge.com.br/judge/en/problems/view/1029)
